@@ -1,0 +1,37 @@
+.navbar {
+    margin-top: 18px;
+    background-color: #000000;
+}
+.navbar-toggler {
+    border-color: #00000000;
+}
+.navbar-brand {
+    top: 50%;
+    left: 50%;
+    color: #faf7f7;
+}
+.brand {
+    height: 35px;
+    width: 90px;
+}
+.shop-cart {
+    color: #f8f5f5;
+}
+
+.list-offcanvas {
+    background-color: #00000000;
+    border-color: #00000000;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    &:hover {
+        background-color: var(--bs-body-color);
+        color: #ffffff;
+        text-decoration: underline;
+    }
+}
+.offcanvas-brand {
+    height: 19px;
+    width: 50px;
+    margin-left: 15px;
+    margin-top: 7px;
+}
