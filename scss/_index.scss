@@ -1,6 +1,8 @@
+/* GENERAL INDEX STYLES */
 .bg-img {
     background-color: black;
 }
+/* IMG Y BRAND - INICIO*/
 .img-fluid {
     width: 100%;
     padding-top: 79px;
@@ -13,6 +15,7 @@
     transform: translate(-50%, -50%);
     z-index: 1;
 }
+/* TITULOS */
 .section-titles {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
@@ -20,12 +23,13 @@
     margin-left: 76px;
     margin-bottom: 15px;
 }
+/* FOOTER */
 .footer {
-    background-color: #9f8351;
+    background-color: #bd9b62;
 }
 .footer-hover {
     &:hover {
-        background-color: #9f8351;
+        background-color: #bd9b62;
     }
 }
 .copyright {

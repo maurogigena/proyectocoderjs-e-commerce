@@ -1,0 +1,155 @@
+/* GENERAL STYLES CARDS */
+.card {
+    transition: transform 0.3s ease;
+    opacity: 1;
+    &:hover {
+        transform: scale(1.05);
+        opacity: 0.7;
+    }
+}
+.card-title {
+    font-family: 'Monserrat', sans-serif;
+    font-weight: 600;
+    margin-top: 40px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+.card-text {
+    font-family: 'Monserrat', sans-serif;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: 600;
+}
+/* GENERAL IMG CARDS STYLES */
+/* SALE */
+.campera-tnf-hombre {
+    background-image: url(../assets/campera-tnf-hombre.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+.campera-tnf-mujer {
+    background-image: url(../assets/campera-tnf-mujer.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+.campera-corderoy-mujer {
+    background-image: url(../assets/campera-kk-mujer.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+.campera-corderoy-hombre {
+    background-image: url(../assets/campera-kk-hombre.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+/* SPRING/SUMMER 2023/24 SEASON*/
+.camisa-kotk {
+    background-image: url(../assets/camisa-kk.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+.bermuda-kotk {
+    background-image: url(../assets/bermuda-kk.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+.catsuit {
+    background-image: url(../assets/catsuit.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+.pantalon-para-tiendas {
+    background-image: url(../assets/pantalon-para-tiendas.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+/* ACCESORIOS */
+.collar-osito {
+    background-image: url(../assets/collar-osito.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+.cap-rosa {
+    background-image: url(../assets/gorra-rosa.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+.medias {
+    background-image: url(../assets/medias.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+.piluso {
+    background-image: url(../assets/piluso.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+/* ZAPATILLAS */
+.zapas-47 {
+    background-image: url(../assets/zapas-rosas.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 150px;
+    align-self: center;
+}
+.zapas-adidas {
+    background-image: url(../assets/zapas-adidas.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 200px;
+    align-self: center;
+}
+.zapas-nike {
+    background-image: url(../assets/zapas-nike.jpeg);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 200px;
+    align-self: center;
+}
+.zapas-converse {
+    background-image: url(../assets/zapas-converse.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 220px;
+    width: 230px;
+    align-self: center;
+}
