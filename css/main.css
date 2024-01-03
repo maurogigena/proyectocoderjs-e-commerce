@@ -349,4 +349,30 @@
   border-color: #ffffff;
 }
 
+/* CARRITO */
+.carrito {
+  text-align: center;
+  margin-top: 100px;
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0);
+  color: #000000;
+  font-family: "Montserrat", sans-serif;
+}
+
+.titulo-carrito {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.button-carrito {
+  padding: 1px 17px 3px 17px;
+  margin: 0 auto;
+  display: block;
+  font-size: 20px;
+  border-color: #bd9b62;
+  border-radius: 7px;
+  background-color: #bd9b62;
+  color: #fdfdfd;
+}
+
 /*# sourceMappingURL=main.css.map */
